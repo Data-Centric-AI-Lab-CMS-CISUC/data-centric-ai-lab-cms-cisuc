@@ -27,6 +27,7 @@ title: Lab Team
 | <a href="https://www.cisuc.uc.pt/en/people/penousal-machado"><b>Penousal Machado</b></a> | <img src="https://img.shields.io/badge/-Core-005A9E?style=flat-square" alt="Core"> <img src="https://img.shields.io/badge/-PhD-0078D4?style=flat-square" alt="PhD"> |
 | <a href="https://www.cisuc.uc.pt/en/people/rui-pedro-paiva"><b>Rui Pedro Paiva</b></a> | <img src="https://img.shields.io/badge/-Core-005A9E?style=flat-square" alt="Core"> <img src="https://img.shields.io/badge/-PhD-0078D4?style=flat-square" alt="PhD"> |
 | <a href="https://www.cisuc.uc.pt/en/people/t-salazar"><b>Teresa Salazar</b></a> | <img src="https://img.shields.io/badge/-Core-005A9E?style=flat-square" alt="Core"> <img src="https://img.shields.io/badge/-PhD-0078D4?style=flat-square" alt="PhD"> |
+| <a href="https://www.cisuc.uc.pt/en/people/vcerq"><b>Vitor Cerqueira</b></a> | <img src="https://img.shields.io/badge/-Core-005A9E?style=flat-square" alt="Core"> <img src="https://img.shields.io/badge/-PhD-0078D4?style=flat-square" alt="PhD"> |
 | <a href="https://www.cisuc.uc.pt/en/people/j-apostolo"><b>Diogo Apóstolo</b></a> | <img src="https://img.shields.io/badge/-PhD%20Student-008AD7?style=flat-square" alt="PhD Student"> |
 | **Guo Jielong** | <img src="https://img.shields.io/badge/-PhD%20Student-008AD7?style=flat-square" alt="PhD Student"> |
 | <a href="https://www.cisuc.uc.pt/en/people/cortesao"><b>Paulo Cortesão</b></a> | <img src="https://img.shields.io/badge/-PhD%20Student-008AD7?style=flat-square" alt="PhD Student"> |

@@ -38,6 +38,8 @@ title: Lab Resources
 | [**QIDLearningLib**](https://doi.org/10.1016/j.neucom.2025.131239) | Python library for quasi-identifier recognition. [Source](https://pypi.org/project/QIDLearningLib/) |
 | [**pycol**](https://doi.org/10.1016/j.neucom.2025.130311) | Python package for dataset complexity measures. [Source](https://pypi.org/project/pycol-complexity/) |
 | [**mdatagen (Library)**](https://doi.org/10.1016/j.neucom.2025.129478) | Python library for the artificial generation of missing data. [Source](https://pypi.org/project/mdatagen/) |
+| [**metaforecast**](https://github.com/vcerqueira/metaforecast) | Meta-learning and data-centric time series forecasting. |
+| [**modelradar**](https://github.com/vcerqueira/modelradar) | Aspect-based forecasting accuracy evaluation. |
 
 ---
 
