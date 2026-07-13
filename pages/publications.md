@@ -22,6 +22,7 @@ title: Lab Publications
 
 | Type | Publication Details | Year |
 | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/Paper-Journal-blue?style=flat-square" alt="Journal"> | [**Expert-aided causal discovery of ancestral graphs**](https://doi.org/10.1016/j.ins.2026.123816)<br>T. Silva, B. Bazaluk, E. da Silva, A. Góis, S. Lahlou, D. Heider, S. Kaski, D. Mesquita, A. H. Ribeiro \| *Information Sciences* | 2026 |
 | <img src="https://img.shields.io/badge/Paper-Journal-blue?style=flat-square" alt="Journal"> | [**pycol-vis: A Python package for image complexity assessment**](https://doi.org/10.1016/j.neucom.2026.134155)<br>Diogo Apóstolo, Miriam Seoane Santos, Ana Carolina Lorena, Nathalie Japkowicz, Pedro Henriques Abreu \| *Neurocomputing* | 2026 |
 | <img src="https://img.shields.io/badge/Paper-Journal-blue?style=flat-square" alt="Journal"> | [**Exploring the Influence of Missing Data Imputation in Group Fairness Metrics**](https://doi.org/10.1016/j.artint.2026.104559)<br>Arthur Dantas Mangussi, Ricardo Cardoso Pereira, Miriam Seoane Santos, Ana Carolina Lorena, Mykola Pechenizkiy, Pedro Henriques Abreu \| *Artificial Intelligence* | 2026 |
 | <img src="https://img.shields.io/badge/Paper-Journal-blue?style=flat-square" alt="Journal"> | [**Fairness in machine learning pipelines: Guided interventions with the fairforge tool**](https://doi.org/10.1016/j.neucom.2026.133868)<br>Emanuel Roque, Miriam Santos, Penousal Machado, Pedro Henriques Abreu \| *Neurocomputing* | 2026 |
@@ -51,6 +52,7 @@ title: Lab Publications
 
 | Type | Publication Details | Year |
 | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/Paper-Conference-green?style=flat-square" alt="Conference"> | **Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**<br>D. Baumgartner, E. da Silva, I. Urteaga \| *UAI 2026* | 2026 |
 | <img src="https://img.shields.io/badge/Paper-Conference-green?style=flat-square" alt="Conference"> | [**On the Identifiability of Tensor Ranks via Prior Predictive Matching**](https://openreview.net/forum?id=wGHcWy5Te1)<br>Eliezer de Souza da Silva, Arto Klami, Diego Mesquita, Iñigo Urteaga \| *AISTATS 2026* | 2026 |
 | <img src="https://img.shields.io/badge/Paper-Conference-green?style=flat-square" alt="Conference"> | [**MATH-PT: A Math Reasoning Benchmark for European and Brazilian Portuguese**](https://aclanthology.org/2026.propor-1.102/)<br>T. Teixeira, A. C. Erthal, J. Belieni, B. Canaverde, D. Mesquita, M. Faria, E. da Silva, A. F. T. Martins \| *PROPOR 2026* | 2026 |
 | <img src="https://img.shields.io/badge/Paper-Conference-green?style=flat-square" alt="Conference"> | [**An interpretable human-in-the-loop process to improve medical image classification**](https://link.springer.com/chapter/10.1007/978-3-031-58547-0_15)<br>Joana Cristo Santos, Miriam Seoane Santos, Pedro Henriques Abreu \| *IDA 2024* | 2024 |
